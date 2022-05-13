@@ -5,7 +5,7 @@ module.exports = {
       name: `Erkan Doğan`,
       summary: `tarafından yazılmaktadır.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Kişisel Blog | Düşünceler, hikayeler, fikirler... `,
     siteUrl: `https://blog.erkandogan.com.tr/`,
     social: {
       twitter: `#`,
