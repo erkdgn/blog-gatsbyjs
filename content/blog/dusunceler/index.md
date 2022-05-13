@@ -1,6 +1,6 @@
 ---
 title: Düşünceler
-date: "2022.05.13T13:00:00"
+date: "2022.05.13T13:00:00Z"
 description: "Hello World"
 ---
 
