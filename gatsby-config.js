@@ -3,7 +3,7 @@ module.exports = {
     title: `Erkan Doğan`,
     author: {
       name: `Erkan Doğan`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `tarafından yazılmaktadır.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://blog.erkandogan.com.tr/`,
