@@ -3,7 +3,7 @@ module.exports = {
     title: `Erkan Doğan`,
     author: {
       name: `Erkan Doğan`,
-      summary: `tarafından yazılmaktadır.`,
+      summary: ``,
     },
     description: `Kişisel Blog | Düşünceler, hikayeler, fikirler... `,
     siteUrl: `https://blog.erkandogan.com.tr/`,
