@@ -4,9 +4,8 @@ date: "2022-05-15T17:39:00Z"
 description: "Bolton Valley Bisiklet Parkı"
 ---
 
-İzlerken çok keyif
+İzlerken çok keyif aldım.
 
-[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
 
 https://youtu.be/3qjhz11kejY
 
