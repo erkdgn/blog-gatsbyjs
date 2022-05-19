@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Erkan Doğan`,
     author: {
-      name: `Erkan`,
+      name: ``,
       summary: ``,
     },
     description: `Kişisel Blog | Düşünceler, hikayeler, fikirler... `,
